@@ -25,7 +25,7 @@ full source codes.
 ![Protection and Licensing SDK settings](https://www.pelock.com/img/en/products/pelock/options/protection/pelock-options-protection-sdk-system.png)
 
 ## Software Licensing  
-
+ 
 PELock comes with a built-in licensing system, you can use it
 to easily add license key system for your application.
 
