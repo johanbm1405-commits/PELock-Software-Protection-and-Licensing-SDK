@@ -21,7 +21,7 @@ You can closely integrate the protection and licensing features
 using dedicated SDK with hundreds of examples for C/C++, Delphi,
 Lazarus, Free Pascal, PureBasic, PowerBASIC, D, Assembler with
 full source codes.
-
+ 
 ![Protection and Licensing SDK settings](https://www.pelock.com/img/en/products/pelock/options/protection/pelock-options-protection-sdk-system.png)
 
 ## Software Licensing
